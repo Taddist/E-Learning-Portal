@@ -33,7 +33,7 @@ else :
     DEBUG=True
 
 ALLOWED_HOSTS = [
-    'https://lit-journey-92479.herokuapp.com',
+    'lit-journey-92479.herokuapp.com',
     'localhost'
 ]
 
