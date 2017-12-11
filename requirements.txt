@@ -1,0 +1,5 @@
+dj-database-url = "*"
+django = "*"
+gunicorn = "*"
+psycopg2 = "*"
+whitenoise = "*"
