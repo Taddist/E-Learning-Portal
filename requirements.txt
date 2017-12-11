@@ -1,5 +1,5 @@
-dj-database-url = "*"
-django = "*"
-gunicorn = "*"
-psycopg2 = "*"
-whitenoise = "*"
+dj-database-url == 0.4.2
+django == 1.11.0
+gunicorn == 19.7.1
+psycopg2 == 2.7.3.1
+whitenoise ==3.3.1
